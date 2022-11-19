@@ -20,6 +20,7 @@ For other colors, we use TailwindCSS's color palette (unless otherwise not viabl
 ### Fonts & Weights
 
 - We use Inter as our primary font.
+- For the logo, we use Maison Neue.
 - We primarily use the following weights: normal, medium, and bold.
 - We avoid any weight lighter than normal or bolder than bold.
 - We add negative letter spacing to headers.
