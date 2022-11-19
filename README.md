@@ -1,4 +1,6 @@
-# Thirdbuy Brand Assets, Copy, and Design Recommendations
+# Thirdbuy Brand
+
+Includes assets, copy, and design recommendations.
 
 ## Copy
 
